@@ -2,8 +2,18 @@ site_name: DLMC Guides
 site_url: https://guides.lai.colgate.domains
 theme:
   name: material
+  logo: assets/logo-mark.png
+  favicon: assets/favicon.png
   palette:
     scheme: default
+    primary: custom
+    accent: custom
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Video Production:

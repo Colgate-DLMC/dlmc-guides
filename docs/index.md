@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# DLMC Guides
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<p align="center">
+  <img src="assets/logo.png" alt="The DLMC" width="280">
+</p>
 
-## Commands
+Reference guides and how-tos from the Digital Learning & Media Center — practical, step-by-step documentation for the tools and workflows we use every day.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What's here
 
-## Project layout
+- **Video Production** — capturing, editing, and exporting video, including Premiere Pro workflows.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+More sections will be added as guides are written. If you can't find what you're looking for, reach out to the DLMC team.

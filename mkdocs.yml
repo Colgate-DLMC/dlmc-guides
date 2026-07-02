@@ -7,5 +7,5 @@ theme:
 nav:
   - Home: index.md
   - Video Production: 
-	- Premiere: 
-		- Adding Caotions: video-production/premiere/captions.md
+       - Premiere: 
+            - Adding Caotions: video-production/premiere/captions.md

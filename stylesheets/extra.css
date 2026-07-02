@@ -1,0 +1,14 @@
+/* Colgate DLMC brand colors — https://www.colgate.edu brand guide */
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: #821019;         /* Colgate Maroon */
+  --md-primary-fg-color--light: #a3232c;
+  --md-primary-fg-color--dark: #411217;   /* Dark Maroon */
+  --md-primary-bg-color: #ffffff;
+  --md-typeset-a-color: #821019;
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: #e10028;          /* Maple Red */
+  --md-accent-fg-color--transparent: #e100281a;
+  --md-accent-bg-color: #ffffff;
+}

@@ -1,0 +1,8 @@
+site_name: DLMC Guides
+site_url: https://guides.lai.colgate.domains
+theme:
+  name: material
+  palette:
+    scheme: default
+nav:
+  - Home: index.md
